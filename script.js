@@ -6,7 +6,7 @@ const projects = [
   {
     image: 'img/project-1.png',
     name: 'Design company website',
-    link: 'https://vsafonova.github.io/Portfolio/SkillFactory/Project%20Lending/',
+    link: 'https://vsafonova.github.io/lending-project/',
     description:
     'The straightforward design company website. It"s responsive so it looks good on a laptop and smartphone',
     tags: ['HTML', 'CSS', 'JavaScript']
